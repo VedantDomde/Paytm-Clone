@@ -4,18 +4,18 @@
 
 ### My final website is below.
 
-![homepage](images/Screenshot(53).png.png)
-![homepage](images/Screenshot(54).png.png)
-![homepage](images/Screenshot(55).png.png)
-![homepage](images/Screenshot(56).png.png)
-![homepage](images/Screenshot(57).png.png)
-![homepage](images/Screenshot(58).png.png)
-![homepage](assets/Screenshot(59).png.png)
-![homepage](images/Screenshot(60).png.png)
-![homepage](images/Screenshot(61).png.png)
-![homepage](images/Screenshot(62).png.png)
-![homepage](images/Screenshot(63).png.png)
-![homepage](images/Screenshot(64).png.png)
+![homepage](images/Screenshot(53).png)
+![homepage](images/Screenshot(54).png)
+![homepage](images/Screenshot(55).png)
+![homepage](images/Screenshot(56).png)
+![homepage](images/Screenshot(57).png)
+![homepage](images/Screenshot(58).png)
+![homepage](assets/Screenshot(59).png)
+![homepage](images/Screenshot(60).png)
+![homepage](images/Screenshot(61).png)
+![homepage](images/Screenshot(62).png)
+![homepage](images/Screenshot(63).png)
+![homepage](images/Screenshot(64).png)
 
 - Time Taken:2 days
 
